@@ -1,9 +1,9 @@
 [
   {
-    "Device Id": "PASTE-DEVICE-ID", 
-    "username": "PASTE-USERNAME",
-    "password": "PASTE-PASSWORD",
-    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
+    "Device Id": "360cf3efc39c3c92", 
+    "username": "SALESEDGE",
+    "passwor": " PASSWORD",
+    "expiry": "2026-02-31" //DATE DATE FORMAT~ YYYY-MM-DD
   },
   {
     "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
